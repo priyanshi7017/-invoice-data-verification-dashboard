@@ -106,3 +106,16 @@ In a real business workflow, extracted information should also be checked agains
 ## 👩‍💻 About This Project
 
 This project is part of my journey toward an entry-level Data Analyst role. It demonstrates my practical application of Microsoft Excel to data verification, reconciliation, data-quality monitoring, and reporting.
+## 🖥️ Project Screenshots
+
+### Invoice Quality Dashboard
+
+The dashboard summarizes invoice verification results, discrepancy counts, data completeness, and final quality-control outcomes.
+
+![Invoice Quality Dashboard](invoice_dashboard.png)
+
+### Invoice Data Quality Checks
+
+The following view illustrates the invoice calculations, reconciliation results, and data-quality checks used to flag records for investigation.
+
+![Invoice Data Quality Checks](invoice_QC.png)
