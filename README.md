@@ -112,10 +112,10 @@ This project is part of my journey toward an entry-level Data Analyst role. It d
 
 The dashboard summarizes invoice verification results, discrepancy counts, data completeness, and final quality-control outcomes.
 
-![Invoice Quality Dashboard](invoice_dashboard.png)
+![Invoice Quality Dashboard](invoice_dashboard.png.png)
 
 ### Invoice Data Quality Checks
 
 The following view illustrates the invoice calculations, reconciliation results, and data-quality checks used to flag records for investigation.
 
-![Invoice Data Quality Checks](invoice_QC.png)
+![Invoice Data Quality Checks](invoice_QC.png.png)
